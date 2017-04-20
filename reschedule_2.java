@@ -1,7 +1,6 @@
 
 package reschedule.pkg1;
-//jhkjjkhkh
-ppp
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
